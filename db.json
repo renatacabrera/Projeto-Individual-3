@@ -1,0 +1,57 @@
+{
+  "seriesDeComedia": [
+    {
+      "id": 1,
+      "nome": "MODERN FAMILY",
+      "sinopse": "É uma série de comédia que acompanha três famílias diferentes através das lentes de um cineasta documental e sua equipe. Jay Pritchett é o patriarca desta complicada, confusa e amorosa família moderna",
+      "temporadas": "14"
+    },
+    {
+      "id": 2,
+      "nome": "FRIENDS",
+      "sinopse": "É uma comédia inteligente e divertida sobre a vida e os sentimentos de um grupo de amigos que mora em Nova York.",
+      "temporadas": "10"
+    },
+    {
+      "id": 3,
+      "nome": "HOW I MET YOUR MOTHER",
+      "sinopse": "É uma comédia que conta a vida amorosa de Ted. Tudo começou quando o seu melhor amigo, Marshall, lança a bomba de que pedirá a sua namorada de longa data, Lily (uma professora do jardim de infância), em casamento. Naquele momento, Ted percebe que deve agir se realmente espera encontrar o amor verdadeiro.",
+      "temporadas": "9"
+    },
+    {
+      "id": 4,
+      "nome": "BIG BANG THEORY",
+      "sinopse": "Leonard e Sheldon são físicos brilhantes e sabem exatamente como o universo funciona. Mas essa genialidade toda não ajuda na hora de interagir com outras pessoas, especialmente mulheres. Tudo isso começa a mudar quando Penny se muda para o prédio deles. Sheldon não vê problemas em passar as noites jogando com seus amigos geeks",
+      "temporadas": "12"
+    },
+    {
+      "id": 5
+    }
+  ],
+  "seriesDeDrama": [
+    {
+      "id": 4,
+      "nome": "THE LAST OF US",
+      "sinopse": "Joel, um sobrevivente duro e cínico, e a jovem e impetuosa Ellie se conectam pela dificuldade do mundo onde vivem. Juntos, eles enfrentam circunstâncias brutais e monstros impiedosos durante uma difícil jornada pelos EUA após um surto apocalíptico.",
+      "temporadas": "1"
+    },
+    {
+      "id": 1,
+      "nome": "GREY'S ANATOMY",
+      "sinopse": "A série médica de enorme sucesso foca em um grupo de jovens médicos do Hospital Grace Mercy West, de Seattle, que começaram a carreira na própria instituição como residentes.",
+      "temporadas": "19"
+    },
+    {
+      "id": 2,
+      "nome": "EUPHORIA",
+      "sinopse": "Um grupo de estudantes do ensino médio lida com diferentes situações típicas da idade como drogas, sexo, busca pela identidade, traumas, comportamento nas redes sociais e amizade.",
+      "temporadas": "2"
+    },
+    {
+      "id": 3,
+      "nome": "THIS IS US",
+      "sinopse": "A história da família Pearson começa em 1979, no dia que os trigêmeos Jack, Kate e Randall chegam em casa da maternidade. Revelações sobre os pais Jack e Rebecca surgem nos momentos de amor, mas também de dor, e moldam para sempre a vida de todos.",
+      "temporadas": "6"
+    }
+  ]
+}
