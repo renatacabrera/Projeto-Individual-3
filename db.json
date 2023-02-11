@@ -53,5 +53,31 @@
       "sinopse": "A história da família Pearson começa em 1979, no dia que os trigêmeos Jack, Kate e Randall chegam em casa da maternidade. Revelações sobre os pais Jack e Rebecca surgem nos momentos de amor, mas também de dor, e moldam para sempre a vida de todos.",
       "temporadas": "6"
     }
+  ],
+  "seriesDeAcao": [
+    {
+      "id": 2,
+      "nome": "MOON KNIGHT",
+      "sinopse": "Steven Grant e Marc Spector investigam mistérios dos deuses do Egito de dentro do mesmo corpo.",
+      "temporadas": "1"
+    },
+    {
+      "id": 1,
+      "nome": "LOKI",
+      "sinopse": "Deus da Trapaça, sai da sombra de seu irmão para embarcar em uma aventura que ocorre após os eventos de 'Vingadores: Ultimato'.",
+      "temporadas": "2"
+    },
+    {
+      "id": 3,
+      "nome": "WANDA VISION",
+      "sinopse": "Vivendo vidas suburbanas perfeitas, Wanda e Visão começam a suspeitar que nem tudo é o que parece.",
+      "temporadas": "1"
+    },
+    {
+      "id": 4,
+      "nome": "FALCÃO E O SOLDADO INVERNAL",
+      "sinopse": "São obrigados a formar uma dupla incompatível e embarcarem em uma aventura global que deve testar tanto suas habilidades de sobrevivência quanto sua paciência",
+      "temporadas": "1"
+    }
   ]
 }
