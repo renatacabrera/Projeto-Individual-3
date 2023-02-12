@@ -1,0 +1,17 @@
+{
+    "/seriesDeComedia/list": "/seriesDeComedia/",
+    "/seriesDeComedia/create": "/seriesDeComedia/",
+    "/seriesDeComedia/update/:id": "/seriesDeComedia/:id",
+    "/seriesDeComedia/delete/:id": "/seriesDeComedia/:id",
+
+    "/seriesDeDrama/list": "/seriesDeDrama/",
+    "/seriesDeDrama/create": "/seriesDeDrama/",
+    "/seriesDeDrama/update/:id": "/seriesDeDrama/:id",
+    "/seriesDeDrama/delete/:id": "/seriesDeDrama/:id",
+
+    "/seriesDeAcao/list": "/seriesDeAcao/",
+    "/seriesDeAcao/create": "/seriesDeAcao/",
+    "/seriesDeAcao/update/:id": "/seriesDeAcao/:id",
+    "/seriesDeAcao/delete/:id": "/seriesDeAcao/:id"
+}
+
