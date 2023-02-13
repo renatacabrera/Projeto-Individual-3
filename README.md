@@ -30,7 +30,7 @@
 
 <p>"npm install -g json-server"</p>
 
-<p>Com o terminal instalado, é preciso executar outro comando para acessar as rotas, o comando:</p>
+<p>Com o npm instalado, é preciso executar outro comando para acessar as rotas, o comando:</p>
 
 <p>"npx json-server --watch db.json"</p>
 
